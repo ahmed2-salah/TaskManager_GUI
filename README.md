@@ -31,6 +31,12 @@ The Task will moved to the view window
    
 ![Screenshot (807)](https://github.com/ahmed2-salah/TaskManager_GUI/assets/90197922/665ae783-1775-4c35-b3c8-e1fdbc28ad61)
 
+
+## Used Tools
+ 1. C++
+ 2. Qt FarmeWork.
+ 3. Qt Creator.
+
    
    
 
