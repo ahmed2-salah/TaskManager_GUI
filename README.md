@@ -13,5 +13,12 @@ TaskManager is a powerful and intuitive task management application built using 
 
 ![Screenshot (804)](https://github.com/ahmed2-salah/TaskManager_GUI/assets/90197922/d33f1e07-5c4c-41c7-821f-8e105ad706fb)
 
+## Steps to use application
+1. Wrtie your Task and set deadline ,category and priority
+2. press AddTask.
 
+   
+   The Task will moved to the view window
+
+   
 ![Screenshot (805)](https://github.com/ahmed2-salah/TaskManager_GUI/assets/90197922/c87abdeb-324a-40da-9ecc-67a07fd36f37)
