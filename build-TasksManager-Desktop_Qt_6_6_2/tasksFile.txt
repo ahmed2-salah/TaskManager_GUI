@@ -1,0 +1,20 @@
+Task: Study Session 1
+Piority: High Priority
+Categoty:Study
+Deadline:Thu Oct 3 11:40:00 2024
+-------------------------
+Task: Finish Qt project
+Piority: High Priority
+Categoty:work
+Deadline:Sun Nov 3 21:30:00 2024
+-------------------------
+Task: Leg exersise
+Piority: Medium Priority
+Categoty:Workout
+Deadline:Sun Nov 3 21:30:00 2024
+-------------------------
+Task: Walk for 30 min
+Piority: Low Priority
+Categoty:Entertainment
+Deadline:Sun Nov 3 21:30:00 2024
+-------------------------
