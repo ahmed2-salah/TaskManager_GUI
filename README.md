@@ -26,7 +26,10 @@ The Task will moved to the view window
 
 3. press save to move the Tasks to tasksFile.txt to be restored later.
 
-    
+![Screenshot (806)](https://github.com/ahmed2-salah/TaskManager_GUI/assets/90197922/651d74d8-d4e2-4d60-9645-ed04585aff94)
+
+   
+![Screenshot (807)](https://github.com/ahmed2-salah/TaskManager_GUI/assets/90197922/665ae783-1775-4c35-b3c8-e1fdbc28ad61)
 
    
    
