@@ -17,8 +17,20 @@ TaskManager is a powerful and intuitive task management application built using 
 1. Wrtie your Task and set deadline ,category and priority
 2. press AddTask.
 
-   
-   The Task will moved to the view window
+
+The Task will moved to the view window
 
    
 ![Screenshot (805)](https://github.com/ahmed2-salah/TaskManager_GUI/assets/90197922/c87abdeb-324a-40da-9ecc-67a07fd36f37)
+
+
+3. press save to move the Tasks to tasksFile.txt to be restored later.
+
+    
+
+   
+   
+
+
+
+
