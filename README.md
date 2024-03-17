@@ -37,6 +37,9 @@ The Task will moved to the view window
  2. Qt FarmeWork.
  3. Qt Creator.
 
+
+    ![png-transparent-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-rectangle-thumbnail](https://github.com/ahmed2-salah/TaskManager_GUI/assets/90197922/b3c81d2b-2875-4af5-8679-e65c5e37d7f6)
+
    
    
 
